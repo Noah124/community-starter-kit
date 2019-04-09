@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+-thing that happens
+-real good
 
 ## What it does
 
-FEATURES PLACEHOLDER
+-looks nice
+-makes food
 
 ## Getting started
 
